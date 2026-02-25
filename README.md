@@ -73,6 +73,3 @@ If the dataset becomes **non-linearly separable** (e.g., XOR pattern), the perce
 This highlights a key limitation of **single-layer perceptrons**.
 
 ---
-## 🙏 Acknowledgements
-- Inspired by classic Machine Learning fundamentals
-- Useful for understanding linear classifiers and perceptron limitations
